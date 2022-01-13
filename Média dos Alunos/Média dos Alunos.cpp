@@ -37,7 +37,7 @@ int main(void)
 		else if (media >= 5)
 			cout << "Aluno " << i << " de recuperacao!" << endl;
 		else
-			cout << "Aluno " << i << " reprovado!" << endl;
+			cout << "Aluno " << i << " reprovado !" << endl;
 
 	}
 
